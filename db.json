@@ -1,0 +1,11 @@
+{
+  "clientes": [
+    {
+      "nombre": "Luciano Kloster",
+      "email": "correo@correo.com",
+      "telefono": "2915274431",
+      "empresa": "Code 2",
+      "id": 1
+    }
+  ]
+}
